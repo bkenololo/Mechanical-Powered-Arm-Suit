@@ -3,8 +3,8 @@
 
 A project to build an wearable arm exoskeleton with human muscle-approach mechanism. This arm exoskeleton provides "power amplification" so that the arm can give more power in total. 
 
-![alt text](https://o.quizlet.com/CAd3Y6gBQhME7m8ud5osmg_b.png)
-Image source : https://o.quizlet.com/CAd3Y6gBQhME7m8ud5osmg_b.png  
+![alt text](https://github.com/bkenololo/Mechanical-Powered-Arm-Suit/blob/version1/ASSET/CAd3Y6gBQhME7m8ud5osmg_b.png?raw=true)
+Image source : https://quizlet.com/233980311/anatomy-lab-human-arm-muscles-diagram/  
 
 I don't use a motor/actuator directly on the joint, instead I try to mimic the human muscle by using a high-tension high-durability cables to pull the lower arm from different direction thus we can mimic the human muscle mechanism. The cables are connected to some motor/actuator someplace else, this is good because it means less mass on the joint, which means more agility for movements.
 
