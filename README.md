@@ -1,14 +1,24 @@
-# Mechanical Powered Arm Suit
- An arm exoskeleton with power source to give more movement power
+# Arm Exoskeleton (Power-Assist Wearable)
 
-A project to build an wearable arm exoskeleton with human muscle-approach mechanism. This arm exoskeleton provides "power amplification" so that the arm can give more power in total. 
+A wearable arm exoskeleton designed to **amplify human arm strength** using a muscle-inspired mechanism. This project explores mechanical design, power systems, and human-robot interaction for enhanced movement assistance.
 
-![alt text](https://github.com/bkenololo/Mechanical-Powered-Arm-Suit/blob/version1/ASSET/CAd3Y6gBQhME7m8ud5osmg_b.png?raw=true)
-Image source : https://quizlet.com/233980311/anatomy-lab-human-arm-muscles-diagram/  
+## 📌 Project Goals
+- Provide **power augmentation** for lifting/repetitive tasks.
+- Mimic natural arm mechanics for ergonomic movement.
+- Modular design for future upgrades (sensors, AI control).
 
-I don't use a motor/actuator directly on the joint, instead I try to mimic the human muscle by using a high-tension high-durability cables to pull the lower arm from different direction thus we can mimic the human muscle mechanism. The cables are connected to some motor/actuator someplace else, this is good because it means less mass on the joint, which means more agility for movements.
+## 🛠️ Versions
+| Version | Status      | Key Features                          |
+|---------|------------|---------------------------------------|
+| [v1.0](v1/) | ✅ Completed | Basic structure, single-joint support, testing mechanism concept, 1:4 prototype|
+| [v2.0](v2/) | 🚧 In Progress | Multi-joint actuation, lighter design |
 
-![alt text](https://github.com/bkenololo/Mechanical-Powered-Arm-Suit/blob/version1/PHOTO-VIDEO/v1-and-v2-prototype.HEIC?raw=true)
+## 📂 Repository Structure
 
-I've made two versions of the lo-fi prototype. I've made two code versions as well, the first version controls servo with keys, while the second version controls servo with trackpad. I made these protoypes in macOS, slight differences in the code are expected.
-
+Mechanical-Powered-Arm-Suit/
+├── V1.0/ # Version 1 (Finalized)
+| ├── ASSET
+│ ├── PHOTO-VIDEO
+│ ├── PROGRAM
+│ └── README.
+└── README.md # ← You are here
